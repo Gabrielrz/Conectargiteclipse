@@ -6,6 +6,7 @@ public class CompartirRepositorio1 {
 		System.out.println("hola mundo ");
 		System.out.println("nueva modificaion e3 nueva");
 		System.out.println("prueba pull");
+		System.out.println("nueva prueba de pull");
 	}
 
 }
